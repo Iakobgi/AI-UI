@@ -1,0 +1,5 @@
+body { margin: 0; font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; }
+input, textarea, select { display: block; margin: 6px 0; padding: 8px; width: 100%; max-width: 420px; box-sizing: border-box; }
+button { padding: 8px 12px; margin-top: 6px; cursor: pointer; }
+img { max-width: 100%; height: auto; display: block; }
+video { max-width: 100%; display: block; }
